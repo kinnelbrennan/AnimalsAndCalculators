@@ -1,0 +1,56 @@
+table, tr, td {
+	border: 1px solid grey;
+	text-align: center;
+	background-color: black;
+	height: 50px;
+}
+
+td {
+	width: 50px;
+}
+
+.number {
+	background-color: black;
+	border: none;
+	color:white;
+	padding: 15px 15px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 18px;
+	margin: 1px 1px;
+	cursor: pointer;
+}
+
+.symbol {
+	background-color: maroon;
+	border: none;
+	color: white;
+	padding: 15px 15px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 18px;
+	margin: 1px 1px;
+	cursor: pointer;
+}
+
+.symbolMinus {
+	padding: 15px 25px;
+}
+
+.symbolTimes {
+	padding: 15px 24px;
+}
+
+.symbolDivide {
+	padding: 15px 26px;
+}
+
+.symbolDecimal {
+	padding: 15px 26px;
+}
+
+.symbolClear {
+	padding: 15px 20px;
+}
